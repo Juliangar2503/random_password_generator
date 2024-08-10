@@ -11,7 +11,6 @@ This project serves as an educational example of how to use Streamlit for web ap
 - **Generate Random Passwords**: Users can specify the length of the password and choose which types of characters to include.
 - **Flexible Options**: Include uppercase letters, lowercase letters, numbers, and special characters.
 - **User Interface**: Simple and intuitive interface with controls for password settings and a button to generate passwords.
-- **Copy to Clipboard**: Easily copy the generated password to the clipboard for convenience (if you integrate this feature).
 
 ## How to Use
 
