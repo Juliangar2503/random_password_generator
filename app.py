@@ -18,7 +18,7 @@ def generate_password(length, uppercase, lowercase, numbers, special_chars):
     
     return ''.join(secrets.choice(chars) for _ in range(length))
 
-st.set_page_config(page_title="Random Password Generator", page_icon="👁️‍🗨️", layout="centered")
+st.set_page_config(page_title="Random Password Generator", page_icon="👁️", layout="centered")
 
 with st.container():
     st.header("Hola👋")  # Greeting kept in Spanish
